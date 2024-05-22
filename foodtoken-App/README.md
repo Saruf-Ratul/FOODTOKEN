@@ -2,20 +2,8 @@
 
 A FullStack React app [MERN] for generating food e-Tokens for  employees inhouse (organisation).
 
-<br>
-# App Link
-<h4> https://foodtokenapp-karthee.netlify.app </h4>
-<br>
 
 <h4>This is my Capstone Project for FullStack Developer [MERN] Bootcamp</h4>
-<br>
-
-### User Credentials for App-Demo
-<a href="https://docs.google.com/document/d/1bbiqsHTkOpuNnkxbF-KSQrmGhv_udrc_5lu8oorsnOg/edit?usp=sharing" target="_blank">Click here to Get APP DEMO User Credentials</a>
-<br>
-
-### Backend Repo Link
-<h6>Express(NODEjs) server with mongodb and userRole-based-authorization - https://github.com/kar-thee/foodtoken-server</h6>
 <br>
 
 ## App Features

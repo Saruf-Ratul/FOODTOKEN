@@ -4,10 +4,6 @@ express (Nodejs) REST API server - for foodTokenApp deployed @heroku
 a backend server application developed with Expressjs (part of full Stack MERN Application - foodTokenApp)
 <br><br>
 
-### FrontEnd Repo Link
-<h6>React App -https://github.com/kar-thee/foodtoken-App</h6>
-<br>
-
 ## `Server Info`
  <li>Implemented Role Based Access (Admin,Canteen and Employee)</li>
  <li>Employee-user can Generate tokens and request more tokens</li>
